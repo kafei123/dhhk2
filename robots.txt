@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.dhll2018.cn/sitemap.xml
